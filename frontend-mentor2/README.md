@@ -5,7 +5,7 @@ This is a solution to the Product Review Card Component challenge on Frontend Me
 Product Review Card Component
 ## Table of contents
 
-- [Overview](#overview) 
+  - [Overview](#overview) 
   - [The challenge](#the-challenge)
   - [Features](#Features)
   - [Built with](#built-with)

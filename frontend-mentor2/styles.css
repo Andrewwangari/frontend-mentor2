@@ -1,7 +1,8 @@
  
 * {
     box-sizing: border-box;
-    margin: 0;
+    line-height: 1.5;
+    
     padding: 0;
 
 }
@@ -122,10 +123,18 @@ img {
 
 
 
-  @media (max-width: 375px) {
+  @media (max-width: 500px) {
     .container {
       flex-direction: column;
       width: 100%;
+      margin: 0;
+    
+      
+
+      
+      
+    
+      
     }
   
     .container img {
